@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfolio</title>
+    </head>
+    <body>
+        <h1>Portfolio</h1>
+        <h2>Rosemary Rejimon</h2>
+        <p>Welcome to my Portfolio Page</p>
+        <img src="Rosemary-Rejimon-.. (1).jpg" alt="Rose">
+        <h3>About Me</h3>
+        <ol type="I">
+            <li>Education :
+                <p><ol type="a">
+                    <li>High School : St. Alphonsa Public School, Aruvitura</li>
+                    <li>Higher Secondary : St Antony's Public School, Anakkal</li>
+                    <li>Btech In Computer Science : College of Engineering, Poonjar</li>
+                </ol></p>
+            </li>
+            <li>Skills : 
+                <p>
+                    <ol type="a">
+                        <li>Programming Languages : C, C++, Java, Python</li>
+                        <li>Web Technologies : HTML, CSS, JavaScript</li>
+                        <li>Database Management : MySQL</li>
+
+                    </ol></p>
+            </li>
+            <li>Hobbies : 
+                <p>
+                    <ol type="a">
+                        <li>Reading Books</li>
+                        <li>Traveling</li>
+                        <li>Photography</li>
+                    </ol></p>
+            </li>
+            <li>
+                <p>Contact Information : 
+                    <ol type="a">
+                        <li>Email : rosecep24@gmail.com </li>
+                        <li>Phone number : 9605323406</li>
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>
